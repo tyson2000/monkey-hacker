@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Monkey Hacker
 
-You can use the [editor on GitHub](https://github.com/tyson2000/monkey-hacker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+WHat is monkey hacker? 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
